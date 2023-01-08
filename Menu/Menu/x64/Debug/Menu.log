@@ -1,0 +1,12 @@
+﻿  Bai6.cpp
+D:\cpp\Lab\Bai6\Bai6\Bai6.cpp(85,14): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\cpp\Lab\Bai6\Bai6\Bai6.cpp(221,10): warning C4101: 'tho': unreferenced local variable
+D:\cpp\Lab\Bai6\Bai6\Bai6.cpp(221,6): warning C4101: 'ga': unreferenced local variable
+D:\cpp\Lab\Bai6\Bai6\Bai6.cpp(341,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\cpp\Lab\Bai6\Bai6\Bai6.cpp(390,11): warning C4101: 'cskc': unreferenced local variable
+D:\cpp\Lab\Bai6\Bai6\Bai6.cpp(424,11): warning C4101: 'cskc': unreferenced local variable
+D:\cpp\Lab\Bai6\Bai6\Bai6.cpp(534,12): warning C4101: 'k': unreferenced local variable
+D:\cpp\Lab\Bai6\Bai6\Bai6.cpp(534,9): warning C4101: 't': unreferenced local variable
+D:\cpp\Lab\Bai6\Bai6\Bai6.cpp(58): warning C4715: 'UCLN': not all control paths return a value
+D:\cpp\Lab\Bai6\Bai6\Bai6.cpp(369): warning C4715: 'songuyento': not all control paths return a value
+  Bai6.vcxproj -> D:\cpp\Lab\Bai6\x64\Debug\Bai6.exe

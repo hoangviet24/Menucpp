@@ -1,0 +1,16 @@
+﻿  Bai6.cpp
+D:\cpp\Lab\Bai6\Bai6\Bai6.cpp(85,14): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\cpp\Lab\Bai6\Bai6\Bai6.cpp(221,10): warning C4101: 'tho': unreferenced local variable
+D:\cpp\Lab\Bai6\Bai6\Bai6.cpp(221,6): warning C4101: 'ga': unreferenced local variable
+D:\cpp\Lab\Bai6\Bai6\Bai6.cpp(342,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\cpp\Lab\Bai6\Bai6\Bai6.cpp(391,11): warning C4101: 'cskc': unreferenced local variable
+D:\cpp\Lab\Bai6\Bai6\Bai6.cpp(425,11): warning C4101: 'cskc': unreferenced local variable
+D:\cpp\Lab\Bai6\Bai6\Bai6.cpp(536,12): warning C4101: 'k': unreferenced local variable
+D:\cpp\Lab\Bai6\Bai6\Bai6.cpp(536,9): warning C4101: 't': unreferenced local variable
+  Generating code
+D:\cpp\Lab\Bai6\Bai6\Bai6.cpp(370): warning C4715: 'songuyento': not all control paths return a value
+  35 of 52 functions (67.3%) were compiled, the rest were copied from previous compilation.
+    26 functions were new in current compilation
+    12 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Bai6.vcxproj -> D:\cpp\Lab\Bai6\x64\Release\Bai6.exe
